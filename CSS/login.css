@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins';
+}
+
+.bg-login {
+    background-image: url(https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.error-message {
+    margin-bottom: 15px; /* Jarak antara pesan error dan tombol login */
+    font-size: 14px; /* Ukuran teks */
+    font-weight: bold; /* Tebal teks */
+    color: #e74a3b; /* Warna teks (merah) */
+}

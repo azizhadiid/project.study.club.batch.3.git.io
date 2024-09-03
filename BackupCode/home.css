@@ -1,0 +1,29 @@
+.navbar-nav .nav-link:hover {
+    color: black !important; /* Ubah warna teks menjadi hitam saat di-hover */
+}
+
+.custom-background {
+    background-color: antiquewhite;
+    min-height: 50vh;
+}
+.custom-image {
+    background-image: url('https://images.unsplash.com/photo-1631021967400-fbd3f722101c?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    width: 50%;
+    height: 100%;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+}
+.text-title {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+}
+.text-brand {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 35px;
+    margin-top: 50px;
+}
